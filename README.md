@@ -1,2 +1,1 @@
-# AI-Racers-Q-Learning
-Q-Learning algorithm version.
+Por favor consulte (no Moodle/INF) o arquivo com a especificação técnica do trabalho e com manual de uso do simulador.
